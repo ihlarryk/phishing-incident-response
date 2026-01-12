@@ -30,7 +30,7 @@ Demonstrate understanding of:
 
 ### Scripts
 - [email_analyzer.py](email_analyzer.py) — Python tool to detect phishing indicators in email headers
-- [login_analyzer.py](ogin_analyzer.py) — Detects suspicious Microsoft 365 login patterns
+- [login_analyzer.py](login_analyzer.py) — Detects suspicious Microsoft 365 login patterns
 - [firewall_rules.sh](firewall_rules.sh) — Firewall configuration to prevent ransomware spread
 
 ## References
@@ -42,3 +42,4 @@ Demonstrate understanding of:
 ## Author
 Ihor Illarionov
 Candidate for Master's, 2026
+
